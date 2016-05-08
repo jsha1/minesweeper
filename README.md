@@ -4,6 +4,8 @@ The original challange was here https://gist.github.com/jmtame/4885c2e4584e7784f
 
 With a 10x10 board and 10 mines, the solve rate is 74.54% (100k games). There is certainly room for some improvement.
 
+## Main points from the original challenge:
+
 ### What will you be building?
 
 We're going to implement Minesweeper. Please familiarize yourself with the rules and gameplay [here](https://en.wikipedia.org/wiki/Microsoft_Minesweeper). Try playing the game [here](http://minesweeperonline.com/).
